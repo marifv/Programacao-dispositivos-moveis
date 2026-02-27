@@ -3,7 +3,7 @@
         <div className="row">
         <div className="col-12">
             {/* .i.fa.fa-hippo */}
-            <div className="fa fa-cat fa-2x p-3"></div>
+            <i className="fa-solid fa-cat fa-2x p-3"></i>
         </div>
         </div>
 
